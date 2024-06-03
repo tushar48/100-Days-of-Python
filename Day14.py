@@ -10,3 +10,8 @@ while(True):
     i = int(input("Enter Number : \n"))
     if i/3 == 0:
         break
+else:
+    print("Loop Terminated")
+
+#if condition is wrong then it will go to else option
+
